@@ -1,2 +1,2 @@
-# Ellu-P
+# Bodega Shopping Store Clone
 Match Game
